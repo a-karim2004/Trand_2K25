@@ -137,4 +137,8 @@ background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233
     width: 550px !important;
     height: 800px !important;
   }
+  .welcom active{
+     width: 550px !important;
+    height: 800px !important;
+  }
 }
